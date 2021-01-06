@@ -1,7 +1,7 @@
-### Hi there, I'm Vignesh Gupta a.k.a. [DUD3-droid!](https://dud3-droid.github.io/Portfolio/) 👋
+### Hi there, I'm Kritesh Tiwari a.k.a. [thisiskritesh!](#) 👋
 
 ## Connect with me:<br/>
-<a href="https://dud3-droid.github.io/Portfolio/" class="Web">
+<!-- <a href="https://dud3-droid.github.io/Portfolio/" class="Web">
     <img height="32" width="32" src="https://github.com/DUD3-droid/DUD3-droid/blob/main/assets/Web.png" />
 </a>
 <a href="https://www.facebook.com/vighnesh.gupta.5">
@@ -12,21 +12,21 @@
 </a>
 <a href="https://www.linkedin.com/in/vignesh-gupta-206992199/" class="linkedin">
     <img height="32" width="32" src="https://github.com/DUD3-droid/DUD3-droid/blob/main/assets/linkedin.png" />
-</a>
-<a href="https://www.instagram.com/__viggi__26/" class="instagram">
+</a> -->
+<a href="https://www.instagram.com/thisiskritesh/" class="instagram">
     <img height="32" width="32" src="https://github.com/DUD3-droid/DUD3-droid/blob/main/assets/instagram.svg" />
 </a>
-<a href="https://codepen.io/dud3-droid" class="codepen">
+<a href="https://codepen.io/kriteshz" class="codepen">
     <img height="32" width="32" src="https://github.com/DUD3-droid/DUD3-droid/blob/main/assets/codepen.svg" />
 </a>
 
 <br/>
 
 ## About Me: 
-- 🔭 I’m currently working on Own Portfolio.
+- 🔭 I’m currently working on Building My Web Dev Skills.
 - 🌱 I’m currently learning Web-Development.
-- 👯 I’m looking to collaborate with Creative Dev.
-- 💬 Ask me about Web-Designing [here](https://github.com/DUD3-droid/DUD3-droid/issues)
+- 👯 I’m looking to work with you.
+- 💬 Ask me about Web-Designing [here](https://github.com/thisiskritesh/thisiskritesh/issues)
 - ⚡ Fun fact: Love to eat Chocolate while coding.
 
 <br/>
